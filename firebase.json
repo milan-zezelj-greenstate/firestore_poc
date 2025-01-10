@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"macos":{"default":{"projectId":"l10n-generator","appId":"1:802975822400:ios:dfc99f8c19e0ddad4fe5a5","uploadDebugSymbols":false,"fileOutput":"macos/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"l10n-generator","configurations":{"macos":"1:802975822400:ios:dfc99f8c19e0ddad4fe5a5"}}}}}}
